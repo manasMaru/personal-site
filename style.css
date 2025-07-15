@@ -1,0 +1,16 @@
+.heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#title{
+    background-color:rgb(225, 238, 248);
+}
+.profile-photo{
+    border-radius: 50%;
+    border: 2px solid black;  
+ }
+ .feature{
+    background-color: aliceblue;
+ }
+ #footer{
+    background-color :rgb(200, 226, 247);
+ }
